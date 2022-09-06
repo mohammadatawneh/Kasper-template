@@ -215,6 +215,7 @@ header .form i {
   color:white;
   display:flex;
   justify-content:end;
+  z-index:0;
 }
 .landing .text .content {
   max-width:450px;
