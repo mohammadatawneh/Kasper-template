@@ -164,6 +164,7 @@ header .container nav ul li a{
   transition: .3s;
   /* z-index: 2;
   position: relative; */
+  text-align: start;
 }
 header .container nav ul li  .active, 
 header .container nav ul li a:hover 
